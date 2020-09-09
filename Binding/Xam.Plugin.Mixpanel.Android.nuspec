@@ -10,6 +10,6 @@
         <projectUrl>https://github.com/FourPi/Xam.Plugin.Mixpanel.Android</projectUrl>
     </metadata>
     <files>
-        <file src="bin\release\Xam.Plugin.Mixpanel.Android" target="lib\MonoAndroid" />
+        <file src="bin\release\Xam.Plugin.Mixpanel.Android.dll" target="lib\MonoAndroid" />
     </files>
 </package>
